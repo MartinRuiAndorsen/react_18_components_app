@@ -4,7 +4,7 @@ import Header from "./components/headers/Header";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <div>
+      <div className={styles.header}>
         <Header />
       </div>
     </main>

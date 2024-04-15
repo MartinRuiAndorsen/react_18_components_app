@@ -1,0 +1,23 @@
+.header {
+  background-color: blanchedalmond;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 100%;
+  align-items: center;
+}
+
+.header li {
+  list-style: none;
+}
+
+.header h2 {
+  border-radius: 10px;
+  height: 100%;
+  padding: 4px 10px;
+  color: black;
+}
+
+.header h2:hover {
+  background-color: burlywood;
+}
