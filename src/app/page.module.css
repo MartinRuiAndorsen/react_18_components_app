@@ -4,6 +4,6 @@
 }
 
 .form {
-  height: 100px;
+  height: calc(100vh - 40px);
   width: 100%;
 }

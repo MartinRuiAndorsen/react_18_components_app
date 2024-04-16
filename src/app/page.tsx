@@ -1,6 +1,6 @@
 import styles from "./page.module.css";
 import Header from "./components/headers/Header";
-import FormTest from "./components/forms/FormTest";
+import LoginForm from "./components/forms/LoginForm";
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
         <Header />
       </div>
       <div className={styles.form}>
-        <FormTest />
+        <LoginForm />
       </div>
     </main>
   );

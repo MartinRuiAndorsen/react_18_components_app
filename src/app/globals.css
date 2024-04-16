@@ -1,4 +1,17 @@
 :root {
+  /* Color Palette */
+  --primary-bg: #496a81;
+  --secondary-bg: #2b3a67;
+  --tetriary-bg: #66999b;
+
+  --primary-color: #ffffff;
+  --secondary-color: #ffc482;
+  --tetriary-color: #f8f4f9;
+
+  --primary-shade: #375061;
+  --secondary-shade: #1c2541;
+  /* ------------- */
+
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",

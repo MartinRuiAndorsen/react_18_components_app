@@ -1,0 +1,5 @@
+.form {
+  color: var(--primary-color);
+  background-color: var(--primary-bg);
+  height: 100%;
+}
