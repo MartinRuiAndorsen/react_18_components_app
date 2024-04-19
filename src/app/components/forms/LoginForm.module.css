@@ -6,6 +6,27 @@
   color: var(--primary-color);
   background-color: var(--primary-bg);
   height: 100%;
+  font-size: x-large;
+}
+
+.inputSection {
+  display: flex;
+  width: 300px;
+}
+
+.inputField {
+  margin-left: auto;
+}
+
+.loginButton {
+  background: var(--primary-shade);
+  color: var(--primary-color);
+  box-shadow: 1px 1px 10px black;
+  border: none;
+  border-radius: 10px;
+  margin: 10px;
+  min-width: 150px;
+  min-height: 30px;
 }
 
 .form input {
