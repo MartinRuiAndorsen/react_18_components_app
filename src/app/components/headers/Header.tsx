@@ -4,8 +4,8 @@ export default function Header() {
   return (
     <ul className={styles.header}>
       <li>
-        <a href="test1">
-          <h2>Header 1</h2>
+        <a href="/">
+          <h2>Home</h2>
         </a>
       </li>
       <li>
@@ -14,8 +14,8 @@ export default function Header() {
         </a>
       </li>
       <li>
-        <a href="test3">
-          <h2>Header 3</h2>
+        <a href="/login">
+          <h2>Login</h2>
         </a>
       </li>
     </ul>

@@ -1,8 +1,8 @@
+import Header from "../components/headers/Header";
+import LoginForm from "./components/LoginForm";
 import styles from "./page.module.css";
-import Header from "./components/headers/Header";
-import LoginForm from "./login/components/LoginForm";
 
-export default function Home() {
+export default function Login() {
   return (
     <main className={styles.main}>
       <div className={styles.header}>

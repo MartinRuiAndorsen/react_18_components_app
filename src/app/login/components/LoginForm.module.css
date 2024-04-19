@@ -31,9 +31,9 @@
 
 .form input {
   background: var(--primary-shade);
-  color: red;
   height: 30px;
   border-radius: 10px;
+
   margin: 2px;
 }
 
