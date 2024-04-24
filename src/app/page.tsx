@@ -8,9 +8,6 @@ export default function Home() {
       <div className={styles.header}>
         <Header />
       </div>
-      <div className={styles.form}>
-        <LoginForm />
-      </div>
     </main>
   );
 }
